@@ -71,5 +71,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 Haaa shunaqa gaplar
 
+h a a a    shunaqa gapmidi bilmaganakanmizey qaren
+
+
 
 The Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+
